@@ -1,0 +1,71 @@
+[
+  {
+    "id": "ORD001",
+    "userId": "user001",
+    "items": [
+      {
+        "productId": "prod001",
+        "title": "Wireless Bluetooth Headphones",
+        "price": 199.99,
+        "quantity": 1
+      },
+      {
+        "productId": "prod005",
+        "title": "Portable Power Bank 20000mAh",
+        "price": 39.99,
+        "quantity": 2
+      }
+    ],
+    "total": 279.97,
+    "status": "delivered",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "shippingAddress": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    }
+  },
+  {
+    "id": "ORD002",
+    "userId": "user001",
+    "items": [
+      {
+        "productId": "prod002",
+        "title": "Smart Fitness Watch",
+        "price": 249.99,
+        "quantity": 1
+      }
+    ],
+    "total": 249.99,
+    "status": "shipped",
+    "createdAt": "2024-02-20T14:15:00Z",
+    "shippingAddress": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    }
+  },
+  {
+    "id": "ORD003",
+    "userId": "user002",
+    "items": [
+      {
+        "productId": "prod006",
+        "title": "Ergonomic Office Chair",
+        "price": 299.99,
+        "quantity": 1
+      }
+    ],
+    "total": 299.99,
+    "status": "delivered",
+    "createdAt": "2024-03-05T09:20:00Z",
+    "shippingAddress": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001"
+    }
+  }
+]

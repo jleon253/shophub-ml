@@ -1,0 +1,56 @@
+{
+  "user001": [
+    {
+      "id": "prod001",
+      "title": "Wireless Bluetooth Headphones",
+      "description": "Premium noise-cancelling wireless headphones with 30-hour battery life",
+      "price": 199.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "image": "/assets/headphones.jpg",
+      "stock": 45,
+      "quantity": 1
+    },
+    {
+      "id": "prod002",
+      "title": "Smart Fitness Watch",
+      "description": "Advanced fitness tracker with heart rate monitor and GPS",
+      "price": 249.99,
+      "currency": "USD",
+      "category": "Wearables",
+      "image": "/assets/smartwatch.jpg",
+      "stock": 30,
+      "quantity": 2
+    },
+    {
+      "id": "prod003",
+      "title": "Mechanical Gaming Keyboard",
+      "description": "RGB mechanical keyboard with tactile switches",
+      "price": 129.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "image": "/assets/keyboard.jpg",
+      "stock": 60,
+      "quantity": 1
+    },
+    {
+      "id": "prod004",
+      "title": "4K Webcam with Auto-Focus",
+      "description": "Crystal clear 4K video quality with AI-powered auto-focus and noise reduction",
+      "price": 89.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "image": "/assets/webcam.jpg",
+      "stock": 92,
+      "rating": 4.3,
+      "reviewCount": 176,
+      "isBestSeller": false,
+      "tags": [
+        "webcam",
+        "video",
+        "streaming"
+      ],
+      "quantity": 3
+    }
+  ]
+}

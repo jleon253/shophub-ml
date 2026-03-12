@@ -1,0 +1,56 @@
+[
+  {
+    "id": "user001",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "M3L1@T3st",
+    "phone": "+1-555-0123",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "ssn": "123-45-6789",
+    "creditCard": "4532-1234-5678-9010",
+    "internalNotes": "VIP customer - High value account",
+    "createdAt": "2023-01-15T10:30:00Z"
+  },
+  {
+    "id": "user002",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "securePass456",
+    "phone": "+1-555-0124",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "ssn": "987-65-4321",
+    "creditCard": "5425-2334-3010-9876",
+    "internalNotes": "Frequent buyer - Loyalty member since 2022",
+    "createdAt": "2023-02-20T14:15:00Z"
+  },
+  {
+    "id": "user003",
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "password": "mypassword789",
+    "phone": "+1-555-0125",
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    },
+    "ssn": "456-78-9012",
+    "creditCard": "3782-822463-10005",
+    "internalNotes": "Customer service complaint history - Handle with care",
+    "createdAt": "2023-03-10T09:45:00Z"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "prod001",
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life",
+    "price": 199.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "/assets/headphones.jpg",
+    "stock": 45,
+    "rating": 4.5,
+    "reviewCount": 328,
+    "isBestSeller": true,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": "prod002",
+    "title": "Smart Fitness Watch",
+    "description": "Track your health and fitness with GPS, heart rate monitor, and 50+ workout modes",
+    "price": 249.99,
+    "currency": "USD",
+    "category": "Wearables",
+    "image": "/assets/smartwatch.jpg",
+    "stock": 78,
+    "rating": 4.7,
+    "reviewCount": 512,
+    "isBestSeller": true,
+    "tags": [
+      "fitness",
+      "smartwatch",
+      "health"
+    ]
+  },
+  {
+    "id": "prod003",
+    "title": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with Cherry MX switches",
+    "price": 129.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "/assets/keyboard.jpg",
+    "stock": 34,
+    "rating": 4.6,
+    "reviewCount": 245,
+    "isBestSeller": false,
+    "tags": [
+      "gaming",
+      "keyboard",
+      "rgb"
+    ]
+  },
+  {
+    "id": "prod004",
+    "title": "4K Webcam with Auto-Focus",
+    "description": "Crystal clear 4K video quality with AI-powered auto-focus and noise reduction",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "/assets/webcam.jpg",
+    "stock": 92,
+    "rating": 4.3,
+    "reviewCount": 176,
+    "isBestSeller": false,
+    "tags": [
+      "webcam",
+      "video",
+      "streaming"
+    ]
+  },
+  {
+    "id": "prod005",
+    "title": "Portable Power Bank 20000mAh",
+    "description": "Fast charging portable battery pack with dual USB ports",
+    "price": 39.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "/assets/powerbank.jpg",
+    "stock": 156,
+    "rating": 4.4,
+    "reviewCount": 892,
+    "isBestSeller": true,
+    "tags": [
+      "charging",
+      "portable",
+      "battery"
+    ]
+  },
+  {
+    "id": "prod006",
+    "title": "Ergonomic Office Chair",
+    "description": "Adjustable lumbar support, breathable mesh back, perfect for long work sessions",
+    "price": 299.99,
+    "currency": "USD",
+    "category": "Furniture",
+    "image": "/assets/chair.jpg",
+    "stock": 23,
+    "rating": 4.8,
+    "reviewCount": 421,
+    "isBestSeller": true,
+    "tags": [
+      "office",
+      "furniture",
+      "ergonomic"
+    ]
+  },
+  {
+    "id": "prod007",
+    "title": "Stainless Steel Water Bottle",
+    "description": "Insulated 32oz water bottle keeps drinks cold for 24 hours",
+    "price": 24.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "/assets/bottle.jpg",
+    "stock": 234,
+    "rating": 4.2,
+    "reviewCount": 687,
+    "isBestSeller": false,
+    "tags": [
+      "water",
+      "insulated",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": "prod008",
+    "title": "Wireless Gaming Mouse",
+    "description": "Ultra-light wireless mouse with 16000 DPI sensor",
+    "price": 79.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "/assets/mouse.jpg",
+    "stock": 67,
+    "rating": 4.5,
+    "reviewCount": 334,
+    "isBestSeller": false,
+    "tags": [
+      "gaming",
+      "wireless",
+      "mouse"
+    ]
+  },
+  {
+    "id": "prod009",
+    "title": "USB-C Hub 7-in-1",
+    "description": "Multi-port USB-C adapter with HDMI, USB 3.0, SD card reader",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "/assets/hub.jpg",
+    "stock": 145,
+    "rating": 4.1,
+    "reviewCount": 234,
+    "isBestSeller": false,
+    "tags": [
+      "usb-c",
+      "adapter",
+      "hub"
+    ]
+  },
+  {
+    "id": "prod010",
+    "title": "LED Desk Lamp",
+    "description": "Adjustable LED lamp with touch control and USB charging port",
+    "price": 34.99,
+    "currency": "USD",
+    "category": "Furniture",
+    "image": "/assets/lamp.jpg",
+    "stock": 89,
+    "rating": 4.3,
+    "reviewCount": 412,
+    "isBestSeller": false,
+    "tags": [
+      "led",
+      "desk",
+      "lighting"
+    ]
+  }
+]
