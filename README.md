@@ -10,6 +10,20 @@ Transform the provided legacy e-commerce application into a performant, high-qua
 
 ---
 
+## Solution
+
+- File `specification.md`
+- Directory
+```
+specs/
+|-- docs/ (Include project documentation - AI generated)
+|-- improvements/ (Include High, Mid, Low specifications)
+|-- init/ (Include Structure, Front, Back and Test init specifications)
+|-- new_feature/ (Include specification to generate Cart Page)
+```
+
+---
+
 ## Tasks
 Please complete the following tasks in the specified order:
 
