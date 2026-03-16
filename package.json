@@ -9,8 +9,8 @@
         "predev": "npm install",
         "pretest": "npm install",
         "dev": "NODE_ENV=development npm run watch & nodemon bin/www",
-        "build": "NODE_ENV=production node esbuild.js",
-        "watch": "NODE_ENV=development node esbuild.js --watch",
+        "build": "NODE_ENV=production node ./api/esbuild.js",
+        "watch": "NODE_ENV=development node ./api/esbuild.js --watch",
         "test": "jest --runInBand --colors"
     },
     "dependencies": {

@@ -5,9 +5,9 @@ const isWatch = process.argv.includes('--watch');
 const isDev = process.env.NODE_ENV === 'development';
 
 const buildOptions = {
-    entryPoints: ['app/index.tsx'],
+    entryPoints: ['./app/index.tsx'],
     bundle: true,
-    outfile: 'public/bundle.js',
+    outfile: './public/bundle.js',
     platform: 'browser',
     target: 'es2020',
     loader: {
