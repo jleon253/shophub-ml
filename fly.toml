@@ -15,8 +15,8 @@ primary_region = 'gru'
   auto_start_machines = true
   min_machines_running = 0
   
-[[http_service.machine_checks]]
-entrypoint = ["/"]
+[experimental]
+cmd = ["api/esbuild.js"]
 
 [[vm]]
   memory = '1gb'
